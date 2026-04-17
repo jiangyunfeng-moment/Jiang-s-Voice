@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   // 本地运行，无需修改
-  base: '/',
+  base: '/Jiang-s-Voice/',
   title: "江云风",
   description: "心情随笔 | Java 程序员学习笔记",
 
