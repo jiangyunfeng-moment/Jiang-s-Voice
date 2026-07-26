@@ -6,6 +6,7 @@
 ## 📂 内容分类
 - [心情随笔](./mood/index.md) → 记录日常心情、生活感悟
 - [码农笔记](./java/index.md) → 多线程、SpringBoot、后端技术
+- [氛围变成](./vibecoding/index.md) → ai编程-体验分享|有趣内容
 
 ---
 
